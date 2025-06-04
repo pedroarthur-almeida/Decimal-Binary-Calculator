@@ -22,7 +22,7 @@ https://github.com/pedroarthur-almeida/Decimal-Binary-Calculator.git
 ```
 cd Dec-Bin-Calc
 ```
-4. Execute:
+3. Execute:
 ```
 python mainfile.py
 ```
