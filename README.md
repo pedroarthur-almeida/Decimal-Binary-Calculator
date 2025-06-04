@@ -27,4 +27,4 @@ cd Dec-Bin-Calc
 python mainfile.py
 ```
 # Demonstration
-
+![demonstration of operation](Decimal-Binary-Calculator/assets/Calc.gif)
