@@ -27,4 +27,4 @@ cd Dec-Bin-Calc
 python mainfile.py
 ```
 # Demonstration
-![demonstration of operation]([assets/Calc.gif](https://imgur.com/a/aGHdJTv))
+![demonstration of operation](https://imgur.com/a/aGHdJTv)
